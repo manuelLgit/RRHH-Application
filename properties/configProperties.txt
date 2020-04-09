@@ -1,0 +1,6 @@
+rutaArchivoUsuarios = .\\datos\\datosUsuario
+nombreArchivoUsuarios = listaUsuarios.csv
+rutaArchivoDepartamentos = .\\datos\\datosDepartamento
+nombreArchivoDepartamentos = listaDepartamentos.csv
+rutaArchivoUsuarioDepartamentos = .\\datos\\datosUsuarioDepartamento
+nombreArchivoUsuarioDepartamentos = listaUsuarioDepartamentos.csv
